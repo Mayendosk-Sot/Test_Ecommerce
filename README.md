@@ -2,6 +2,7 @@
 ================
 Requisitos:
 Tener instalado node js para poder montar el servidor
+Instalar express (npm install express)
 Instrucciones para correr el proyecto
 ---------------------------------------------------------------------------------------------------
 Una vez instalado Nodes JS, tendremos que descargar el proeycto que se encuentra en este mismo repositorio
