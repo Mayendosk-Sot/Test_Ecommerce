@@ -3,8 +3,9 @@
 Requisitos:
 Tener instalado node js para poder montar el servidor
 Instalar express (npm install express)
-Instrucciones para correr el proyecto
+
 ---------------------------------------------------------------------------------------------------
+Instrucciones para correr el proyecto
 Una vez instalado Nodes JS, tendremos que descargar el proeycto que se encuentra en este mismo repositorio
 Descargamos la carpeta y la guardamos en un una directorio de nuestro ordenador (descargas, escritorio, etc) debemos 
 de recordar donde guardamos el proyecto ya que debemos ejecutar comando para poder correr el test 
